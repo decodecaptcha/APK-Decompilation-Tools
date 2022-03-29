@@ -1,0 +1,30 @@
+Apktool 的安装
+
+Windows：
+下载 Windows包装脚本（右键单击，将链接另存为apktool.bat）
+下载 apktool-2（在这里找到最新的）
+将下载的jar重命名为 apktool.jar
+将两个文件 ( apktool.jar& apktool.bat)移动到您的 Windows 目录（通常C://Windows）
+如果您无权访问C://Windows，您可以将这两个文件放在任何地方，然后将该目录添加到您的环境变量系统 PATH 变量中。
+尝试apktool通过命令提示符运行
+
+Linux：
+下载 Linux包装脚本（右键单击，将链接另存为apktool）
+下载 apktool-2（在这里找到最新的）
+将下载的jar重命名为 apktool.jar
+将两个文件（apktool.jar& apktool）移动到/usr/local/bin（需要根目录）
+确保两个文件都是可执行的 ( chmod +x)
+尝试apktool通过 cli运行
+
+macOS：
+下载 Mac包装器脚本（右键单击，将链接另存为apktool）
+下载 apktool-2（在这里找到最新的）
+将下载的jar重命名为 apktool.jar
+将两个文件（apktool.jar& apktool）移动到/usr/local/bin（需要根目录）
+确保两个文件都是可执行的 ( chmod +x)
+尝试apktool通过 cli运行
+或者您可以通过Homebrew安装 apktool ：
+
+按照本页所述安装 Homebrew
+brew install apktool在终端中执行命令（不需要 root）。最新版本将安装/usr/local/Cellar/apktool/[version]/并链接到/usr/local/bin/apktool.
+尝试apktool通过 cli运行
