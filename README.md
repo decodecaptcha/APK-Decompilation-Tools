@@ -44,22 +44,38 @@ A combined tool for APK decompilation.
 (python_3.6.9) D:\Code\My-Github-Code\APK-Decompilation-Tools\APK-Decompilation-Tools>D:/miniconda3/envs/python_3.6.9/python.exe d:/Code/My-Github-Code/APK-Decompilation-Tools/APK-Decompilation-Tools/run.py
 
 ====== 选择模式 ====== 
+
 1.反编译(查看) 2.反编译(修改) 3.一键打包并签名 0.退出程序
 输入: 2
+
 == 进入反编译-修改模式 ==
+
 正在生成smali文件夹...
+
 I: Using Apktool 2.6.0 on test.apk
+
 I: Loading resource table...
+
 I: Decoding AndroidManifest.xml with resources...
+
 I: Loading resource table from file: C:\Users\admin\AppData\Local\apktool\framework\1.apk
+
 I: Regular manifest package...
+
 I: Decoding file-resources...
+
 I: Decoding values */* XMLs...
+
 I: Baksmaling classes.dex...
+
 I: Copying assets and libs...
+
 I: Copying unknown files...
+
 I: Copying original files...
+
 Successful smali dir: d:\Code\My-Github-Code\APK-Decompilation-Tools\APK-Decompilation-Tools\write\test\smali
+
 Done!
 
 (python_3.6.9) D:\Code\My-Github-Code\APK-Decompilation-Tools\APK-Decompilation-Tools>D:/miniconda3/envs/python_3.6.9/python.exe d:/Code/My-Github-Code/APK-Decompilation-Tools/APK-Decompilation-Tools/run.py
@@ -67,18 +83,33 @@ Done!
 ====== 选择模式 ======
 1.反编译(查看) 2.反编译(修改) 3.一键打包并签名 0.退出程序
 输入: 3
+
 == 进入一键打包并签名 ==
+
 正在生成apk文件...
+
 正在打包...
+
 I: Using Apktool 2.6.0
+
 I: Smaling smali folder into classes.dex...
+
 I: Building resources...
+
 I: Copying libs... (/lib)
+
 I: Building apk file...
+
 I: Copying unknown files/dir...
+
 I: Built apk...
+
 Successful compile_apk file: d:\Code\My-Github-Code\APK-Decompilation-Tools\APK-Decompilation-Tools\write\test\dist\test-new.apk
+
 正在签名...
+
 Successful 已签名apk file: d:\Code\My-Github-Code\APK-Decompilation-Tools\APK-Decompilation-Tools\write\test-sign\test-new-sign.apk
+
 Done!
+
 
