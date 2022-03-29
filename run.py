@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Author : 艾登Aiden
-# @Email : aidenlen@163.com
+# @Email : aiden2048@qq.com
 # @Date : 2021-11-25
 
 from genericpath import samestat

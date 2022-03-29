@@ -37,11 +37,12 @@ A combined tool for APK decompilation.
 			xxx-sign.apk 就是可安装的apk
 
 # @Author : 艾登Aiden
-# @Email : aidenlen@163.com
+# @Email : aiden2048@qq.com
 # @Date : 2022-01-09
 
 
 (python_3.6.9) D:\Code\My-Github-Code\APK-Decompilation-Tools\APK-Decompilation-Tools>D:/miniconda3/envs/python_3.6.9/python.exe d:/Code/My-Github-Code/APK-Decompilation-Tools/APK-Decompilation-Tools/run.py
+
 ====== 选择模式 ====== 
 1.反编译(查看) 2.反编译(修改) 3.一键打包并签名 0.退出程序
 输入: 2
@@ -62,6 +63,7 @@ Successful smali dir: d:\Code\My-Github-Code\APK-Decompilation-Tools\APK-Decompi
 Done!
 
 (python_3.6.9) D:\Code\My-Github-Code\APK-Decompilation-Tools\APK-Decompilation-Tools>D:/miniconda3/envs/python_3.6.9/python.exe d:/Code/My-Github-Code/APK-Decompilation-Tools/APK-Decompilation-Tools/run.py
+
 ====== 选择模式 ======
 1.反编译(查看) 2.反编译(修改) 3.一键打包并签名 0.退出程序
 输入: 3
