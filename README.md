@@ -5,9 +5,6 @@
 @Email : aiden2048@qq.com
 
 
-轮子来源：https://github.com/iBotPeaches/Apktool
-@Author : iBotPeaches
-
 更新 ：
 1. 支持处理多个 classes.dex 文件
 2. apktool.jar 更新到 2.6.1 版本
@@ -147,3 +144,6 @@ Successful 已签名apk file: d:\Code\My-Github-Code\APK-Decompilation-Tools\APK
 Done!
 
 
+# 感谢
+
+* [Apktool](https://github.com/iBotPeaches/Apktool)
